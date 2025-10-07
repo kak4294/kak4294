@@ -2,7 +2,7 @@
 
 **Software Engineer | Sports Analytics Enthusiast**
 
-I'm a Computer Science student at Rochester Institute of Technology with a passion for using data to help people make better decisions. I've enjoyed building full-stack applications currently working as a Software Engineer at MicroEra Power. It was here I developed IoT monitoring systems and real-time data visualization tools.
+I'm a Computer Science student at Rochester Institute of Technology with a passion for making better decisions. I firmly beleive that's done with the use of unbiased data. I've enjoyed building full-stack applications currently working as a Software Engineer at MicroEra Power. It was here I developed data monitoring systems and real-time data visualization tools.
 
 ## 🔭 What I'm Working On
 
